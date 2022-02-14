@@ -1,2 +1,2 @@
 # Quote-Generator
-https://rose-lukas.github.io/Quote-Generator/
+http://www.lukasrose.ca/Quote-Generator/
